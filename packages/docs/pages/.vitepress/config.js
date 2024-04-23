@@ -145,7 +145,11 @@ export default defineConfig({
           text: 'Gmail',
           collapsible: true,
           collapsed: true,
-          items: [{ text: 'Connection', link: '/apps/gmail/connection' }],
+          items: [
+            { text: 'Triggers', link: '/apps/gmail/triggers' },
+            { text: 'Connection', link: '/apps/gmail/connection' },
+            { text: 'Actions', link: '/apps/gmail/actions' },
+          ],
         },
         {
           text: 'Google Calendar',
