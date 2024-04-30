@@ -126,7 +126,10 @@ export default defineConfig({
           text: 'Gitea',
           collapsible: true,
           collapsed: true,
-          items: [{ text: 'Connection', link: '/apps/gitea/connection' }],
+          items: [
+            { text: 'Triggers', link: '/apps/gitea/triggers' },
+            { text: 'Connection', link: '/apps/gitea/connection' },
+          ],
         },
         {
           text: 'GitHub',
