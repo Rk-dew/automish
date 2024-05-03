@@ -23,6 +23,7 @@ The following integrations are currently supported by Automatisch.
 - [Invoice Ninja](/apps/invoice-ninja/triggers)
 - [Mattermost](/apps/mattermost/actions)
 - [Miro](/apps/miro/actions)
+- [Monday](/apps/monday/triggers)
 - [Notion](/apps/notion/triggers)
 - [Ntfy](/apps/ntfy/actions)
 - [Odoo](/apps/odoo/actions)
